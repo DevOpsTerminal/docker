@@ -4,9 +4,11 @@ Start this project using Docker
 Here are all services integrated in one project as docker service
 It's possible to use local and on server by few tools to deploy:
 
+
 + dokku
 + heroku
 + Now
+
 
 
 ## Deployment
@@ -22,3 +24,5 @@ Don't forget to set the environment variable `NODE_ENV=production` to avoid the 
 npx now -e NODE_ENV=production DevOpsTerminal/backend
 ```
 
+## Desktop application
+with nextjs is possible to use as desktopapplication
